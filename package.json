@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.8.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1"
+  },
+  "name": "maid-service.loc",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://imden10@bitbucket.org/imden10/maid_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/imden10/maid_service#readme"
+}
